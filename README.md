@@ -165,7 +165,7 @@ No Content
   - Code: 404 NOT FOUND
   - Content: { "error": "User with id: 133 not found" }
  
-###Get All Users or Search by Birth Date Range
+### Get All Users or Search by Birth Date Range
 
 Retrieves a list of all users or searches for users born between specified dates if both `from` and `to` date parameters are provided.
 
